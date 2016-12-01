@@ -1,4 +1,4 @@
-size(480, 600);
+size(800, 1600);
 background(500);
 for (int y = 400; y <= height; y +=40) {
   for (int x = 12; x <= width; x += 15) {
