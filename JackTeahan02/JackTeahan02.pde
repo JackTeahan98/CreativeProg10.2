@@ -4,7 +4,7 @@ for (int y = 400; y <= height; y +=40) {
   for (int x = 12; x <= width; x += 15) {
     ellipse(x + y, y, 8 - y/10.0, 16 - y/10.0);
     ellipse(40, 100, 840, 220);
- strokeWeight(24);
-line(60, 25, 130, 95);
+ strokeWeight(5);
+ line(60, 25, 130, 95);
 }
 }
