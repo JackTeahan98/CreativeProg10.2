@@ -5,6 +5,6 @@ for (int y = 400; y <= height; y +=40) {
     ellipse(x + y, y, 8 - y/10.0, 16 - y/10.0);
     ellipse(40, 100, 840, 220);
  strokeWeight(5);
- line(60, 25, 130, 95);
+// line(600, 25, 130, 95);
 }
 }
