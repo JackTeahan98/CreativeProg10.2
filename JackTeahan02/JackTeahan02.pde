@@ -7,6 +7,6 @@ for (int y = 400; y <= height; y +=40) {
  strokeWeight(5);
 //line(600, 25, 130, 95);
 strokeJoin(MITER); // Miter the stroke corners
-rect(360, 25, 140, 70);
+rect(360, 255, 140, 70);
 }
 }
