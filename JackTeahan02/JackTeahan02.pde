@@ -9,6 +9,8 @@ for (int y = 400; y <= height; y +=40) {
 //line(600, 25, 130, 95);
 stroke(MITER); // Miter the stroke corners
 rect(360, 355, 140, 170);
+rect(100, 250, 140, 140);
+rect(600, 250, 140, 140);
 
 
 
